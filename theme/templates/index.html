@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% if articles %}
+<div id="articles">
+{% for article in articles_page.object_list %}
+<a class="article-link" href="/{{ article.url }}">
+  <article class="box is-link post {% if article.tags %}{% for tag in article.tags %}tag-{{ tag }} {% endfor %}{% endif %}">
+    {% if article.cover %}
+    <section class="post-image" style="background-image:url({{ article.cover | thumbnail("1024x_") }})"></section>
+    {% endif %}
+    <header class="post-header">
+      <h2 class="post-title">{{ article.title }}</h2>
+    </header>
+    <section class="post-excerpt">
+      {{ article.summary }}
+    </section>
+
+    <footer class="post-meta">
+      <time datetime="{{ article.date.isoformat() }}" itemprop="datePublished">{{ article.locale_date }}</time>
+    </footer>
+  </article>
+</a>
+{% endfor %}
+
+<nav class="pagination" role="navigation">
+  {% if articles_page.has_previous() %}
+  {% set num = articles_page.previous_page_number() %}
+  <a class="newer-posts" href="{{ SITEURL }}/{{ page_name }}{{ num if num > 1 else '' }}.html"><span aria-hidden="true">←</span> Newer Posts</a>
+  {% endif %}
+  <span class="page-number">Page {{ articles_page.number }} of {{ articles_paginator.num_pages }}</span>
+  {% if articles_page.has_next() %}
+  <a class="older-posts" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">Older Posts <span aria-hidden="true">→</span></a>
+  {% endif %}
+</nav>
+
+</div>
+{% endif %}
+
+{% endblock %}

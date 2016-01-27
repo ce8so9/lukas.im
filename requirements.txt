@@ -1,0 +1,4 @@
+markdown
+pelican
+pelican-advthumbnailer
+pelican-autostatic
