@@ -3,6 +3,7 @@ Slug: letsencryptsh
 Date: 2016-02-10 12:49
 Tags: letsencrypt, letsencrypt.sh, bash, crypto, ssl
 Cover: {static|images/letsencrypt.sh.png}
+Category: Projects
 
 Trusted SSL certificates used to cost money, but in the past companies like StartCom already started to hand out domain-verified certificates for free,
 but now we have Let's Encrypt, which takes a different approach.
