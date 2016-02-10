@@ -7,8 +7,11 @@
 <a class="article-link" href="/{{ article.url }}">
   <article class="box is-link post {% if article.tags %}{% for tag in article.tags %}tag-{{ tag }} {% endfor %}{% endif %}">
     {% if article.cover %}
-    <section class="post-image" style="background-image:url({{ article.cover | thumbnail("1024x_") }})"></section>
+    <div class="image-wrapper">
+      <img src="{{ article.cover | thumbnail("800x_") }}" class="post-image full-img">
+    </div>
     {% endif %}
+
     <header class="post-header">
       <h2 class="post-title">{{ article.title }}</h2>
     </header>
