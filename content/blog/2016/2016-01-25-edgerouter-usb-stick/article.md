@@ -1,4 +1,5 @@
 Title: Replace broken USB-Stick in Ubiquiti EdgeMax routers
+Slug: replace-broken-usb-stick-in-ubiquiti-edgemax-routers
 Date: 2016-01-25 19:48
 Tags: Ubiquiti, EdgeMax, Recovery
 Cover: {static|images/stick.jpg}
