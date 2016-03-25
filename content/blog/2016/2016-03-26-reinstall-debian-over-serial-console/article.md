@@ -16,7 +16,7 @@ after that I was able to continue the installation normally via the serial conso
 
 ```
 apt-get install kexec-tools
-wget http://ftp.stw-bonn.de/debian/dists/jessie/main/installer-amd64/current/images/netboot/netboot.tar.gz
+wget http://ftp.fr.debian.org/debian/dists/jessie/main/installer-amd64/current/images/netboot/netboot.tar.gz
 tar xvf netboot.tar.gz
 kexec --load --initrd=debian-installer/amd64/initrd.gz debian-installer/amd64/linux --append="console=ttyS1,9600"
 kexec -e
