@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/lukas2511
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lukas.im
+  * I am lukas2511 (https://keybase.io/lukas2511) on keybase.
+  * I have a public key with fingerprint 3C2F 2605 E078 A1E1 8F47  9390 9C4D BE6C F438 F333
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010199cfc52ed78e8034ff75973e24cdec84f59da569208a9ba51a9ea44414002ba90a",
+      "fingerprint": "3c2f2605e078a1e18f4793909c4dbe6cf438f333",
+      "host": "keybase.io",
+      "key_id": "9c4dbe6cf438f333",
+      "kid": "010199cfc52ed78e8034ff75973e24cdec84f59da569208a9ba51a9ea44414002ba90a",
+      "uid": "9dc7e90c373263f4628cda723cbc4600",
+      "username": "lukas2511"
+    },
+    "merkle_root": {
+      "ctime": 1580410659,
+      "hash_meta": "b30041ee13444b73864de7ad9145c141d96dd65db6436ad13afd258f4d0886b0",
+      "seqno": 14423054
+    },
+    "revoke": {
+      "sig_ids": [
+        "354c021fa5e5e75cb9d49b35e977477094d0ed07423f49abf91cf721c4bb12950f"
+      ]
+    },
+    "service": {
+      "hostname": "lukas.im",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1580410663,
+  "expire_in": 157680000,
+  "prev": "2275b6f554bf0fcda89b177a0b16585064e84ed6b7d24861e94c5563757d884b",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU22IVFUYnk03aypwqd1C6sde0CIGO+eer3uGqZVIl0gjlRJyczxfd+c6M/eO
+997ZXVnWPoyoRFq1Ak2RbS0EiUSiog+xaKGhUEoSYWPNzI+gqNissILO3RIk+tn5
+czgvz/s8z/ucc0avm5XLt+1adqj2szeN2j75VubWoFvhsCMjvcEpDjtVM7OZmjZJ
+Wq4G2ik6AALIufIVcY1mnvEAwr7PCGfIuFhpozzsE64FodwFnuBSECi4ERhjiAFw
+peBAOAXHD8J+EzfiIEwtLVKu71JADGCegAZ6PmYcccAV1tJQ5WPk+Qgh21iJkqzD
+mpMiMQuDyNbsoTxj7z/w/7Pv5t86WjHDgUIMuRT5mLqe0oK5SEmFKQAZMDFxKOrG
+omvNqkhcAqEzUnDqJq7WTDmOojRLV6VBhoHEAxgCSridUCSVct2kwrZKBGzdGIis
+EcmQR7E2TGgOMVEQQ82p1pRoSTGiQkMkfO0SG58GnkdlZiQx68PIKmDsIkCwtRCb
+gahqMvUk6LfBJU5xtYPI4SZWwIW+IIYYRpTkGnOJiOGMYcYAt6RGA2Z5fMyF9DlU
+PnOhwlJClxPgO4+MZHrxQKBm6LO7ujyDhUHdGmrEURqpqGarlTRtJMUslnRDI4MN
+Gln+h6Asg1DbV2I7BkycBFFoh7DIfyVGUcExQ40gNuUgQxBGPWBXpmMGLKXrMiKp
+TwiWPvDtNXlcQsYEkJASjwCKjYeNppJpF3sUGo4VIRQxwrTnYXl5hNan6LecNrdQ
+pM3YOCP5Z9rQ7FxbPndLV/fs0h0L2r8aGjv1XO/20Us/q/2K7Fvl8lfPvVTZdeyq
+3NTG6uK7c/cdGOs4e3Z/aUnfnfPf7eohT/v7+ne8U+y4OF5qbbvQ3Kzp0XmnynsP
+/vnG3j/mPPBr51ObVyx6sufK39d+mZ/18Qc7V38jvz5zWv2y4+X5b6/dMtlqtV64
+rfbi0uH48eMX+5aPv3WzO7FqMHfta4Xd+xdv6ppesa3221L0xKu3Hw4awyvHFt0w
+WG+dO6fO9B2YE68f5Q8/e+/Jg51v9t5//YcPPj/1RbjliNpzV3zTZ3OXPfbpd70r
+8ZL6Qz8cHeo+/9GmY7VX2pd//n1p9L2tO8X5jY2fxh7d3tl74cZw4v1iWDp9ZNzZ
+fWJy6zWH8usqPX2V7jVd90wc/3Hd6/OmCi9NLjhxcmpkuuMv
+=vvC8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lukas2511
+
+==================================================================
+
