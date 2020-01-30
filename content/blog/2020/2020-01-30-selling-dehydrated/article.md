@@ -19,6 +19,12 @@ They made an acceptable offer and after a good night's sleep I agreed.
 
 It still feels a bit wrong to hand over this project I have been working on over the last few years, but as I'll effectively stay in charge of the project it made the decision a lot easier.
 
+The following statement has been given by apilayer about this purchase:
+
+> As a highly developer focused company, apilayer has committed to use part of it’s profits to sponsor open source projects,
+> both as support for the developer community and to generate uplift for our brands.
+> We‘d like to welcome Lukas and the dehydrated community to our portfolio and are looking forward to support the project long-term."
+
 As I didn't want a companies project in my personal GitHub account we decided to move it to a new namespace:
 
 New versions of dehydrated will from now on be maintained at [github.com/dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) (repository will be moved later today, so it will 404 for now).
