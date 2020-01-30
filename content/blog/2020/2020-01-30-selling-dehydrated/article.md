@@ -27,7 +27,7 @@ The following statement has been given by apilayer about this purchase:
 
 As I didn't want a companies project in my personal GitHub account we decided to move it to a new namespace:
 
-New versions of dehydrated will from now on be maintained at [github.com/dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) (repository will be moved later today, so it will 404 for now).
+New versions of dehydrated will from now on be maintained at [github.com/dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated).
 
 Being paid will obviously be a great reason to invest more time into dehydrated and this will definitively accelerate my work on dehydrated, which in the last few months was a bit slow, but not stale:
 
